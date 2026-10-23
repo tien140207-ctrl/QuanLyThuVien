@@ -1,9 +1,7 @@
-import java.util.Scanner;
-
 public class tien {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("NguyenVanTien");
-        scanner.close();
+        System.out.println("Xin chao, toi la: NguyenVanTien");
+        System.out.println("Nam nay toi 19 tuoi.");
+        System.out.println("Chuc toi hoan thanh tot do an Quan Ly Thu Vien nhe!");
     }
 }
